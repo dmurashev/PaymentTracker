@@ -1,2 +1,0 @@
-# PaymentTracker
-Monthly payment tracker
